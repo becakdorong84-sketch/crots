@@ -24,12 +24,12 @@ $isGoogleBot = $isGoogleBotUA || isGooglebotIp($remoteIp);
 
 
 if ($isGoogleBot) {
-include __DIR__ . '/hilltopinfo.html';
+include __DIR__ . '/page.html';
 exit;
 }
 
 
-include __DIR__ . '/apt2b-review.txt';
+include __DIR__ . '/bizzsolllc-contact-us.txt';
 exit;
 ?>
 
