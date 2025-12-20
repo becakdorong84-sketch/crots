@@ -24,12 +24,11 @@ $isGoogleBot = $isGoogleBotUA || isGooglebotIp($remoteIp);
 
 
 if ($isGoogleBot) {
-include __DIR__ . '/page.html';
+include __DIR__ . '/islammacomb.html';
 exit;
 }
 
 
-include __DIR__ . '/bizzsolllc-contact-us.txt';
+include __DIR__ . '/islammacomb-com-services.txt';
 exit;
 ?>
-
