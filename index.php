@@ -24,11 +24,11 @@ $isGoogleBot = $isGoogleBotUA || isGooglebotIp($remoteIp);
 
 
 if ($isGoogleBot) {
-include __DIR__ . '/islammacomb.html';
+include __DIR__ . '/dentafixdentalclinic.html';
 exit;
 }
 
 
-include __DIR__ . '/islammacomb-com-services.txt';
+include __DIR__ . '/dentafixdentalclinic-co-in-blogs.txt';
 exit;
 ?>
